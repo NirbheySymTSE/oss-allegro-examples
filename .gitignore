@@ -41,3 +41,6 @@ workspace/**
 
 # The eclipse maven plugin creates these in every module.
 */.gitignore
+
+# Keys
+/rsa/*
